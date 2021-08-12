@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import UIKit
 
 @objc protocol UIConfigurationProtocol {
     func setupUI()

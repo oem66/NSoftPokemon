@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  NSoftPokemon
+
+  Created by OMERS on 9. 8. 2021..
+  
+*/
+
+//MARK: Auth Screen
+"auth_screen_alert_title" = "Användarnamn är ogiltigt";
+"auth_screen_alert_message" = "Användarnamn är obligatoriskt fält. Den måste ha mer än 3 tecken!";
+"auth_screen_alert_action" = "OK";
+"auth_screen_welcome_label" = "Välkommen";
+"auth_screen_username_label" = "Vänligen ange ditt användarnamn: ";
+"auth_screen_username_text_field" = "Tryck för att börja skriva";
+"auth_screen_conntinue_button" = "Fortsätta";
+
+//MARK: Welcome Screen
+"welcome_screen_title" = "Välkommen";
+"welcome_screen_username_label" = "Vänligen ange ditt användarnamn:";
+"welcome_screen_button_title" = "Fortsätta";
+
+//MARK: Home Screen
+"home_screen_welcome_title" = "Välkommen";
+"home_screen_favorites_button" = "Favoriter";
+"home_screen_alert_title" = "Ingen förbindelse";
+"home_screen_alert_message" = "Du är inte ansluten till internet.";
+"home_screen_alert_action" = "OK";
+
+//MARK: Favorites Screen
+"favorite_screen_title" = "Favoriter";
+"favorite_screen_back_button" = "Tillbaka";
+"favorite_screen_remove_button" = "Ta bort från favoriter";
+
+//MARK: Pokemon Details Screen
+"pokemon_details_screen_back_button" = "Tillbaka";
+"pokemon_details_screen_base_experience" = "Grundupplevelse: ";
+"pokemon_details_screen_weight" = "Vikt: ";
+"pokemon_details_screen_types" = "Typer: ";
+"pokemon_details_screen_button_title" = "Lägg till i favoriter";
+
+//MARK: Alerts
+"alert_action_ok" = "OK";
+"alert_title_success" = "Framgång";
+"alert_message_added_favorites" = "läggs till i dina favoriter!";
+"alert_message_removed_favorites" = "har tagits bort från favoriter!";

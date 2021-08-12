@@ -10,12 +10,13 @@ import UIKit
 
 extension UITextField {
     func placeholderColor(_ color: UIColor){
-            var placeholderText = ""
-            if self.placeholder != nil{
-                placeholderText = self.placeholder!
-            }
-            self.attributedPlaceholder = NSAttributedString(string: placeholderText, attributes: [NSAttributedString.Key.foregroundColor : color])
+        var placeholderText = ""
+        if self.placeholder != nil{
+            placeholderText = self.placeholder!
         }
+        self.attributedPlaceholder = NSAttributedString(string: placeholderText, attributes: [NSAttributedString.Key.foregroundColor : color])
+        self.translatesAutoresizingMaskIntoConstraints = false
+    }
     
     static func newTextField(_ placeholder: String?, _ isSecureEntry: Bool?) -> UITextField {
         let textField = UITextField()

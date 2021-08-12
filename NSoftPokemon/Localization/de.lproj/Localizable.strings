@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  NSoftPokemon
+
+  Created by OMERS on 9. 8. 2021..
+  
+*/
+
+//MARK: Auth Screen
+"auth_screen_alert_title" = "Benutzername ungültig";
+"auth_screen_alert_message" = "Benutzername ist ein Pflichtfeld. Es muss mehr als 3 Zeichen haben!";
+"auth_screen_alert_action" = "OK";
+"auth_screen_welcome_label" = "Willkommen";
+"auth_screen_username_label" = "Bitte geben Sie Ihren Benutzernamen ein: ";
+"auth_screen_username_text_field" = "Tippen, um mit der Eingabe zu beginnen";
+"auth_screen_conntinue_button" = "Weitermachen";
+
+//MARK: Welcome Screen
+"welcome_screen_title" = "Willkommen";
+"welcome_screen_username_label" = "Bitte geben Sie Ihren Benutzernamen ein:";
+"welcome_screen_button_title" = "Weitermachen";
+
+//MARK: Home Screen
+"home_screen_welcome_title" = "Willkommen";
+"home_screen_favorites_button" = "Favoritinnen";
+"home_screen_alert_title" = "Keine Verbindung";
+"home_screen_alert_message" = "Sie sind nicht mit dem Internet verbunden.";
+"home_screen_alert_action" = "OK";
+
+//MARK: Favorites Screen
+"favorite_screen_title" = "Favoritinnen";
+"favorite_screen_back_button" = "Zurück";
+"favorite_screen_remove_button" = "Von Favoriten entfernen";
+
+//MARK: Pokemon Details Screen
+"pokemon_details_screen_back_button" = "Zurück";
+"pokemon_details_screen_base_experience" = "Basiserfahrung: ";
+"pokemon_details_screen_weight" = "Gewicht: ";
+"pokemon_details_screen_types" = "Typen: ";
+"pokemon_details_screen_button_title" = "Zu den Favoriten hinzufügen";
+
+//MARK: Alerts
+"alert_action_ok" = "OK";
+"alert_title_success" = "Erfolg";
+"alert_message_added_favorites" = "wird zu Ihren Favoriten hinzugefügt!";
+"alert_message_removed_favorites" = "wurde aus den Favoriten entfernt!";

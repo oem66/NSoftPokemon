@@ -1,6 +1,0 @@
-framework module Pods_NSoftPokemon {
-  umbrella header "Pods-NSoftPokemon-umbrella.h"
-
-  export *
-  module * { export * }
-}
